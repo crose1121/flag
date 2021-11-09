@@ -1,0 +1,30 @@
+*{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 40%;
+    height: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.topStripes{
+    display: inline-block;
+    height: 30%;
+    width: 59.8%;
+    }
+
+.redStripes{
+    height: 81px;
+    width: 100%;
+    background-color: red;
+}
+
+.whiteStripes{
+    height: 81px;
+    width: 100%;
+    background-color: white;
+}
